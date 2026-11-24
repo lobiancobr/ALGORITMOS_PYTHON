@@ -1,0 +1,1 @@
+resultado = 5 / 0  # Isso causará um erro "ZeroDivisionError" porque não é possível dividir por zero.

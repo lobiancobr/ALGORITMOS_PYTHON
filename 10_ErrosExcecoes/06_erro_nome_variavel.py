@@ -1,0 +1,1 @@
+print(variavel_inexistente)  # Isso causará um erro "NameError" porque "variavel_inexistente" não foi definida.

@@ -1,0 +1,1 @@
+resto = 10 % 0  # Isso também causará um erro "ZeroDivisionError".
